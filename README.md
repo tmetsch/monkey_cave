@@ -13,6 +13,8 @@ Simulate normal application behavior:
 
 Randomly spin up and cause I/O or other 'weird' behaviour patterns on the system.
 
+Also there is a monkey for trying to grab all virtual CPU, disk IO and therefore create an unbalance for multiple VMs running on a host - a good system should use I/O capping/limiting here and hinder this behavior.
+
 ## The intruding monkeys
 
 Simulate DoS attacks.
