@@ -4,7 +4,10 @@ Tools to simulate application behavior and misbehavior. Inspired by Netflix's Ch
 
 ## The good monkeys
 
-Simulate normal application behavior - like a simple web service causing some I/O on incoming TCP requests.
+Simulate normal application behavior: 
+
+* like a simple web service causing some I/O on incoming TCP requests.
+* like a VM start up.
 
 ## The bad monkeys
 
